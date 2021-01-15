@@ -1,0 +1,9 @@
+man git-add
+man git-commit
+man git-push
+
+
+
+
+
+
